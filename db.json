@@ -1,0 +1,136 @@
+{ "Dogs":
+  [
+    {
+      "id": 1,
+      "Breed": "Boston Terrier",
+      "Name": "Hank",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-boston\/20200710_175933.jpg"
+    },
+
+    {
+      "id": 2,
+      "Breed": "Boston Terrier",
+      "Name": "Marty",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-boston\/20200710_175944.jpg"
+    },
+
+    {
+      "id": 3,
+      "Breed": "Boston Terrier",
+      "Name": "Lucy",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-boston\/n02096585_10380.jpg"
+    },
+
+    {
+      "id": 4,
+      "Breed": "Boston Terrier",
+      "Name": "Dotty",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-boston\/n02096585_10452.jpg"
+    },
+
+    {
+      "id": 5,
+      "Breed": "Boston Terrier",
+      "Name": "Scout",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-boston\/n02096585_10596.jpg"
+    },
+
+    {
+      "id": 6,
+      "Breed": "Boston Terrier",
+      "Name": "Pepper",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-boston\/n02096585_10604.jpg"
+    },
+  
+    {
+      "id": 7,
+      "Breed": "English Bulldog",
+      "Name": "Fred",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-english\/bunz.jpg"
+    },
+  
+    {
+      "id": 8,
+      "Breed": "English Bulldog",
+      "Name": "Beans",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-english\/jager-1.jpg"
+    },
+    
+    {
+      "id": 9,
+      "Breed": "English Bulldog",
+      "Name": "Jager",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-english\/jager-2.jpg"
+    },
+
+    {
+      "id": 10,
+      "Breed": "English Bulldog",
+      "Name": "Humphrey",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-english\/mami.jpg"
+    },
+   
+    {
+      "id": 11,
+      "Breed": "English Bulldog",
+      "Name": "Murphy",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-english\/murphy.jpg"
+    },
+   
+    {
+      "id": 12,
+      "Breed": "French Bulldog",
+      "Name": "Cinnamon",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-french\/IMG_0846.jpg"
+    },
+
+    {
+      "id": 13,
+      "Breed": "French Bulldog",
+      "Name": "Poppy",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-french\/n02108915_9804.jpg"
+    },
+
+    {
+      "id": 14,
+      "Breed": "French Bulldog",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-french\/IMG_1657.jpg"
+    },
+   
+    {
+      "id": 15,
+      "Breed": "French Bulldog",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-french\/n02108915_10204.jpg"
+    },
+   
+    {
+      "id": 16,
+      "Breed": "French Bulldog",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-french\/n02108915_10564.jpg"
+    },
+   
+    {
+      "id": 17,
+      "Breed": "French Bulldog",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-french\/n02108915_110.jpg"
+    },
+    
+    {
+      "id": 18,
+      "Breed": "French Bulldog",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-french\/n02108915_1114.jpg"
+    },
+
+    {
+      "id": 19,
+      "Breed": "French Bulldog",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-french\/n02108915_1119.jpg"
+    },
+
+    {
+      "id": 20,
+      "Breed": "French Bulldog",
+      "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-french\/n02108915_11207.jpg"
+    }
+  ]
+}

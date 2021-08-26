@@ -1,0 +1,56 @@
+body {
+    background: linear-gradient(rgb(0, 174, 255),rgb(0, 81, 255));
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+  } 
+
+h2 {
+  background-color: rgb(187, 187, 187);
+}
+
+section {
+  text-align: center;
+  padding: 10px;
+}
+
+.cat-pic{
+  text-align: center;
+  padding-left: 0%;
+  padding-right: 2%;
+}
+
+h2 {
+    color: green;
+    font-size: 36px;
+    text-decoration-line: underline;
+    font-weight: bold;
+  }
+
+p {
+    font-size: 22px;
+    font-style: italic;
+  }
+
+img { 
+    max-width: 400px;
+    max-height: 400px;
+    background-size: cover;
+    border: 5px solid green;
+    padding: 5px;
+}
+
+div.dogs{
+  align-items: center;
+}
+
+.dog-container { 
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  float: left;
+  width: 33.33%; 
+  padding: 50px;
+}
