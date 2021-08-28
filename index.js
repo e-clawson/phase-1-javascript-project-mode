@@ -39,9 +39,16 @@ const emojiList = document.querySelector('#cat-pic')
 catButton.addEventListener('click', () => renderEmoji('🐈‍⬛'))
 
 function renderEmoji(emoji){
-    const ul = document.createElement('ul')
-    ul.innerHTML = emoji
-    emojiList.appendChild(ul)
+  const deleteCat = document.createElement('button')
+
+  const ul = document.createElement('ul')
+  ul.innerHTML = emoji
+  deleteCat.textContent = 'delete'
+
+  ul.appendChild(deleteCat)
+  emojiList.appendChild(ul)
+
+  deleteCat.addEventListener('click', () => deleteCat.parentElement.remove())
 }
 
 const init = () => {
