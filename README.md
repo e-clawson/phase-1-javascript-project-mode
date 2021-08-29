@@ -22,6 +22,8 @@ example:
       "Name": "Hank",
       "image": "https:\/\/images.dog.ceo\/breeds\/bulldog-boston\/20200710_175933.jpg"
     },
+  ]
+}
 ```
 
 To install a JSON Server, run the following command in your terminal: 
